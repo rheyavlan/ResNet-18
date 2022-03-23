@@ -1,2 +1,2 @@
-# random
-Random
+# ResNet-18
+
