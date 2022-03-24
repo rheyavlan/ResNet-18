@@ -33,3 +33,19 @@ sbatch resnet_batch.sh
 
 Python
 - torchvision
+- pdb
+- argparse
+- numpy 
+- tqdm
+- torch
+- torchvision 
+- CSVLogger
+- Cutout
+- ResNet18
+
+# from pyimagesearch import config
+from torchvision.datasets import ImageFolder
+from torch.utils.data import DataLoader
+from torchvision import transforms
+import matplotlib.pyplot as plt
+import torch
