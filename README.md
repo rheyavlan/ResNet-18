@@ -10,7 +10,7 @@ Clone or download this repository
 git clone [Github](https://github.com/rheyavlan/random)
 Install dependencies
 ```
-npm install
+Go to project folder 
 ```
 
 Command to start training : 
